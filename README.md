@@ -23,6 +23,7 @@
 
 - [x] **[ASP.NET Core](docs/aspnetcore.md)**: Middleware, Routing, Filters, Model Binding.
 - [x] **[Entity Framework Core](docs/efcore.md)**: LINQ to Entities, Change Tracker, Migrations, Performance.
+- [ ] **[Брокеры сообщений (Kafka)](docs/kafka.md)**: Topics, Partitions, Consumer Groups, Comparison with RabbitMQ.
 - [x] **[Брокеры сообщений (RabbitMQ)](docs/rabbitmq.md)**: Exchanges, Queues, Bindings, Patterns (Pub/Sub, Request/Reply).
 - [x] **[Базы данных (PostgreSQL)](docs/postgresql.md)**: Основы SQL, индексы, транзакции и ACID, уровни изоляции.
 
